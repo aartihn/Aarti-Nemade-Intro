@@ -56,13 +56,13 @@ _November 2019 – October 2021_
 
 ## 🚀 Projects
 
-### **[Library Management System - Java, MySQL, JDBC, JavaFX, Git](https://github.com/Akash-Agarwal-X/Research-Paper-Management-System.git)**
+### **[Library Management System - Java, MySQL, JDBC, JavaFX, Git](https://github.com/aartihn/Library_Management_System.git)**
 - This project is a Research Paper Management System built using Java. It provides a graphical user interface (GUI) for adding, viewing, and deleting research papers. The data is managed using in-memory storage with collections (e.g., ArrayList).
 
-### **[Stock Price Prediction Using Machine Learning - Pandas, NumPy, Scikit-learn, TensorFlow](https://github.com/Akash-Agarwal-X/ChatX.git)**
-- ChatX is a real-time, web-based chat application built using Flask and Socket.IO. It allows users to join a chat room with a username and chat with others instantly in a simple, user-friendly interface.
+### **[Chat.com - Python, Flask](https://github.com/aartihn/Chat.com.git)**
+- Chat.com is a real-time, web-based chat application built using Flask and Socket.IO. It allows users to join a chat room with a username and chat with others instantly in a simple, user-friendly interface.
 
-### **[XBuyer.com - HTML, CSS, JavaScript](https://github.com/Akash-Agarwal-X/X-Seller.git)**
+### **[XBuyer.com - HTML, CSS, JavaScript](https://github.com/aartihn/X-Buyer.git)**
 - XSeller is an online platform where users can buy and sell second-hand items. The platform allows users to view products, register an account, log in, and add products to their shop for selling.
 ---
 
