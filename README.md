@@ -57,7 +57,7 @@ _November 2019 – October 2021_
 ## 🚀 Projects
 
 ### **[Library Management System - Java, MySQL, JDBC, JavaFX, Git](https://github.com/aartihn/Library_Management_System.git)**
-- This project is a Research Paper Management System built using Java. It provides a graphical user interface (GUI) for adding, viewing, and deleting research papers. The data is managed using in-memory storage with collections (e.g., ArrayList).
+- Library Management System project is built using Java. It provides a graphical user interface (GUI) for adding, viewing, and deleting books. The data is managed using in-memory storage with collections (e.g., ArrayList).
 
 ### **[Chat.com - Python, Flask](https://github.com/aartihn/Chat.com.git)**
 - Chat.com is a real-time, web-based chat application built using Flask and Socket.IO. It allows users to join a chat room with a username and chat with others instantly in a simple, user-friendly interface.
